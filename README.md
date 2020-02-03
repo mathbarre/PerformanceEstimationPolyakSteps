@@ -1,5 +1,5 @@
 # PerformanceEstimationPolyakSteps
-Code associated to the work "Complexity Guarantess for Polyak Steps with Momentum".
+Code associated to the work "Complexity Guarantees for Polyak Steps with Momentum".
 
 
 Date:    February 3, 2020
