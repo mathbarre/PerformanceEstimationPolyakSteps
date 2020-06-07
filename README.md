@@ -1,6 +1,7 @@
 # PerformanceEstimationPolyakSteps
-Code associated to the work "Complexity Guarantees for Polyak Steps with Momentum".
+Code associated to the work [`reference`](https://arxiv.org/abs/2002.00915).
 
+> [1] M. Barré, A. B. Taylor and A. d'Aspremont, "Complexity Guarantees for Polyak Steps with Momentum" arXiv:2002.00915, 2020.
 
 Date:    February 3, 2020
 
