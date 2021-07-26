@@ -17,4 +17,4 @@ Date:    July 2021
 
 - The Matlab code requires [YALMIP](https://yalmip.github.io/) along with a suitable SDP solver (e.g., Sedumi, SDPT3, Mosek).
 
-- The Numerical experiements are presented in a [IJulia](https://github.com/JuliaLang/IJulia.jl) notebook, and require several Julia packages listed in the first cell of the notebook.
+- The Numerical experiments are presented in a [IJulia](https://github.com/JuliaLang/IJulia.jl) notebook, and require several Julia packages listed in the first cell of the notebook.
