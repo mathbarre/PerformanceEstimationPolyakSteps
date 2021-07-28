@@ -15,6 +15,6 @@ Date:    July 2021
 
 - The [Mathematica](https://www.wolfram.com/mathematica/) notebooks in the proofs folder allow to easily verify some statements present in the paper's appendices.
 
-- The Matlab code requires [YALMIP](https://yalmip.github.io/) along with a suitable SDP solver (e.g., Sedumi, SDPT3, Mosek).
+- The Matlab code requires [YALMIP](https://yalmip.github.io/) and [PESTO](https://github.com/AdrienTaylor/Performance-Estimation-Toolbox) along with a suitable SDP solver (e.g., Sedumi, SDPT3, Mosek).
 
 - The Numerical experiments are presented in a [IJulia](https://github.com/JuliaLang/IJulia.jl) notebook, and require several Julia packages listed in the first cell of the notebook.
